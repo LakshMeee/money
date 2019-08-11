@@ -1,0 +1,36 @@
+date,mg/dL,Type,Range
+Dec 6 2015,210,Total Cholestrol,High
+Jan 8 2016,248,Total Cholestrol,High
+Apr 4 2016,240,Total Cholestrol,High
+Aug 10 2016,245,Total Cholestrol,High
+Jan 3 2017,200,Total Cholestrol,Borderline High
+May 11 2017,180,Total Cholestrol,Desirable
+Sep 10 2017,210,Total Cholestrol,Borderline High
+Dec 6 2015,300,Triglycerides,High
+Jan 8 2016,350,Triglycerides,High
+Apr 4 2016,300,Triglycerides,High
+Aug 10 2016,280,Triglycerides,High
+Jan 3 2017,260,Triglycerides,High
+May 11 2017,240,Triglycerides,High
+Sep 10 2017,250,Triglycerides,High
+Dec 6 2015,55,HDL,High
+Jan 8 2016,50,HDL,In range
+Apr 4 2016,55,HDL,In range
+Aug 10 2016,45,HDL,In range
+Jan 3 2017,52,HDL,In range
+May 11 2017,40,HDL,In range
+Sep 10 2017,42,HDL,In range
+Dec 6 2015,110,LDL,Near desirable
+Jan 8 2016,163,LDL,High risk
+Apr 4 2016,150,LDL,High risk
+Aug 10 2016,112,LDL,Near desirable
+Jan 3 2017,130,LDL,Moderate risk
+May 11 2017,120,LDL,Near desirable
+Sep 10 2017,96,LDL,Desirable
+Dec 6 2015,24,VLDL,Normal
+Jan 8 2016,22.3,VLDL,Normal
+Apr 4 2016,18,VLDL,Normal
+Aug 10 2016,15,VLDL,Normal
+Jan 3 2017,19,VLDL,Normal
+May 11 2017,20,VLDL,Normal
+Sep 10 2017,22,VLDL,Normal
